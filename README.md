@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kami26
-- 👀 I’m interested in web development using html, css, js.
+- 👀 I’m a MERN stack Developer and working on it since about 1 year. 
 - 🌱 I’m currently learning front end web dev.
 - 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me ... hppavilion120000@gmail.com
