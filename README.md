@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kami26
+- 👋 Hi, I’m kamran Aslam
 - 👀 I’m a MERN stack Developer and working on it since about 1.5 year. 
 - 🌱 I’m currently learning back end web dev.
 - 💞️ I’m looking to collaborate on back end  projects.
